@@ -1,2 +1,1 @@
-# AWSwildrydesdemo
 # AWSDemo
